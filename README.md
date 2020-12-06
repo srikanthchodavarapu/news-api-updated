@@ -4,7 +4,7 @@ Create News APi with React + Redux include enzyme
 # react-news-app
 
 A ReactJS + redux front-end that consumes the articles from 'newsApi.org' API for news articles and their sources, and displays them in UI
-Note : Download the .zip file and extract it. 
+Note : Download the news-api.zip file and extract it. 
       and open command Prompt, and change to that source code directory.
       
 1. **One command to get setup** - Type `npm install` to download all required modules.
